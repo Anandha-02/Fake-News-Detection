@@ -24,7 +24,7 @@ Getting Started
 To get started with this project, follow these steps:
 
 1.Cloning the repository
-git clone 
+git clone https://github.com/Anandha-02/Fake-News-Detection.git
 
 2.Install the required libraries for python
 cd Fake-News-Detector/app/FakeNewsDetectorAPI/ && pip install -r requirements.txt
