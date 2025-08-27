@@ -20,7 +20,7 @@ FND is a web-based application designed to detect fake news articles. It uses ma
 <img width="815" height="258" alt="image" src="https://github.com/user-attachments/assets/02487454-7ae8-4bbb-9f13-d02b004bf238" />
 
 .User Collaboration: I encourage other developers to collaborate and improve this project further.
-Getting Started
+# Getting Started
 To get started with this project, follow these steps:
 
 1.Cloning the repository
@@ -47,10 +47,10 @@ cd app/fake-news-detector-frontend/ && npm start
 
 All set if everything running without errors. Now the deployed web application should open in a browser. If not, open a browser and navigate to http://localhost:3000
 
-Contributing
+# Contributing
 I welcome contributions from fellow developers. If you have ideas for new features, improvements, or bug fixes, please open an issue or submit a pull request. Your contributions will be greatly appreciated and will help make this project even better.
 
-Roadmap
+# Roadmap
 .Enhanced Machine Learning Models: Improve the accuracy of the fake news detection models.
 .User Profiles: Allow users to create profiles and track their quiz scores.
 
